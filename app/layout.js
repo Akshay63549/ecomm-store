@@ -27,7 +27,7 @@ export default function RootLayout({ children }) {
       <meta name="msapplication-tap-highlight" content="no" />
       <meta name="theme-color" content="#000000" />
 
-      <link rel="apple-touch-icon" href="/icons/maskable.png" />
+      <link rel="apple-touch-icon" href="/icons/icon-512x512.png" />
       <link rel="manifest" href="/manifest.json" />
       <link rel="shortcut icon" href="/favicon.ico" />
       <body className={inter.className}>{children}</body>

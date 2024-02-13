@@ -4,9 +4,9 @@
     "display": "fullscreen",
     "scope": "/",
     "start_url": "/",
-    "name": "doctor-driving",
-    "short_name": "dr.driving",
-    "description": "An SASS to find a best trainer in the town",
+    "name": "ecomm-store",
+    "short_name": "e-store",
+    "description": "for user experience",
     "icons": [
         {
             "src": "/icon-192x192.png",

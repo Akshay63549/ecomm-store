@@ -4,9 +4,9 @@
     "display": "fullscreen",
     "scope": "/",
     "start_url": "/",
-    "name": "doctor-driving",
-    "short_name": "dr.driving",
-    "description": "An SASS to find a best trainer in the town",
+    "name": "ecomm-store",
+    "short_name": "e-store",
+    "description": "for user experience",
     "icons": [
         {
             "src": "/icons/icon-192x192.png",
@@ -29,7 +29,7 @@
             "type": "image/png"
         },
         {
-            "src": "/icons/maskable.png",
+            "src": "/icons/icon-512x512.png",
             "sizes": "384x384",
             "type": "image/x-icon",
             "purpose": "maskable"
