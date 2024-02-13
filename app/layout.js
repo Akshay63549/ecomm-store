@@ -11,7 +11,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-         <meta
+         {/* <meta
         name="viewport"
         content="minimum-scale=1, initial-scale=1, width=device-width, shrink-to-fit=no, user-scalable=no, viewport-fit=cover"
       />
@@ -25,11 +25,11 @@ export default function RootLayout({ children }) {
       <meta name="mobile-web-app-capable" content="yes" />
       <meta name="msapplication-TileColor" content="#2B5797" />
       <meta name="msapplication-tap-highlight" content="no" />
-      <meta name="theme-color" content="#000000" />
+      <meta name="theme-color" content="#000000" /> */}
 
-      <link rel="apple-touch-icon" href="/icons/icon-512x512.png" />
+      {/* <link rel="apple-touch-icon" href="/icons/icon-512x512.png" /> */}
       <link rel="manifest" href="/manifest.json" />
-      <link rel="shortcut icon" href="/favicon.ico" />
+      {/* <link rel="shortcut icon" href="/favicon.ico" /> */}
       <body className={inter.className}>{children}</body>
     </html>
   );
