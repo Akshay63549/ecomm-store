@@ -1,12 +1,12 @@
 {
-    "theme_color": "#3e70a4",
-    "background_color": "#4b3c2d",
-    "display": "browser",
+    "theme_color": "#f69435",
+    "background_color": "#f69435",
+    "display": "fullscreen",
     "scope": "/",
     "start_url": "/",
-    "name": "ecomm-store",
-    "short_name": "e-store",
-    "description": "for user experience",
+    "name": "doctor-driving",
+    "short_name": "dr.driving",
+    "description": "An SASS to find a best trainer in the town",
     "icons": [
         {
             "src": "/icon-192x192.png",
